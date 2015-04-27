@@ -1,0 +1,1 @@
+For F# projects but mostly for learning stuff
