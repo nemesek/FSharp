@@ -1,0 +1,8 @@
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe.config
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.XML
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.exe
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\HelloWorldWinForms.pdb
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\FSharp.Core.dll
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\bin\Debug\FSharp.Core.xml
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.exe
+C:\source\GitHub\FSharp\Pluralsight\IntroToFS#\Module1\HelloWorldWinForms\HelloWorldWinForms\obj\Debug\HelloWorldWinForms.pdb
